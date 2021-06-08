@@ -138,7 +138,7 @@ Essential technologies needed:
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/e6gdcsNZN-Q/0.jpg)](https://www.youtube.com/watch?v=e6gdcsNZN-Q)
+[![Watch the video]](https://www.youtube.com/watch?v=tEvMhoRC7dY)
 
 ## The architecture
 
